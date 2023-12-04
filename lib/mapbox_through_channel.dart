@@ -29,7 +29,7 @@ class _NavgationFromAndroidState extends State<NavgationFromAndroid> {
           onPressed: () {
             launchMapScreen();
           },
-          child: Text("Press"),
+          child: Text("Press "),
         ),
       ),
     );
