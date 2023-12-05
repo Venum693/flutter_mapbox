@@ -3,6 +3,8 @@ package com.example.flutter_mapbox;
 import android.app.AlertDialog;
 import android.content.DialogInterface;
 import android.content.Intent;
+import android.os.Bundle;
+import android.widget.TextView;
 
 import androidx.annotation.NonNull;
 
@@ -37,3 +39,5 @@ public class MainActivity extends FlutterActivity {
         startActivity(intent);
     }
 }
+
+
